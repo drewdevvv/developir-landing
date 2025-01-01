@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+.wrangler
+.dev.vars
+
+# Environment variables
+.env*
+
+# Build files
+dist
+build
+.cloudflare
